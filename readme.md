@@ -1,4 +1,4 @@
-Homepage for "Socially Responsible Recommendation and Retrieval" Workshop
-=========================================================================
+Socially Responsible Recommendation and Retrieval
+=================================================
 
-* Copyright : Copyright (c) 2018 organizing committee of "Socially Responsible Recommendation and Retrieval"  all rights reserved.
+(c) 2018 Organizing Committee of Socially Responsible Recommendation and Retrieval, All rights reserved.
