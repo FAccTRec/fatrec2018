@@ -1,0 +1,13 @@
+image: ruby
+
+before_script:
+- bundle install
+
+pages:
+  script:
+  - ./node_modules/.bin/gulp build --dest-dir public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
