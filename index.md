@@ -11,13 +11,13 @@ And, we will conduct a discussion for research to contribute socially responsibl
 
 ## What's New
 
-* 2018-04-22: site opens
+* 2018-04-22: opening this site
 
 ## Important Dates
 
 * 2018-07-16: Paper submission deadline
 * 2018-08-13: Author notification
 * 2018-08-27: Camera-ready version deadline
-* 2018-
+* 2018-10-06: Workshop (full day)
 
 * TIMEZONE: Anywhere On Earth
