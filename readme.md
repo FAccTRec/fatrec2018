@@ -1,4 +1,6 @@
-Socially Responsible Recommendation and Retrieval
-=================================================
+2nd FATREC Workshop: Responsible Recommendation
+===============================================
 
-(c) 2018 Organizing Committee of Socially Responsible Recommendation and Retrieval, All rights reserved.
+(c) 2018 Organizing committee of the 2nd FATREC workshop: responsible recommendation, All rights reserved.
+
+* site url: <https://piret.gitlab.io/fatrec2018/>
