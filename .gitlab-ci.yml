@@ -5,7 +5,7 @@ before_script:
 
 pages:
   script:
-  - ./node_modules/.bin/gulp build --dest-dir public
+  - bundle exec jekyll build -d public
   artifacts:
     paths:
     - public
