@@ -11,6 +11,7 @@ permlink: /cfp/
 ## The 2nd FATREC Workshop on Responsible Recommendation
 
 The 2nd FATREC Workshop on Responsible Recommendation at [RecSys 2018](https://recsys.acm.org/recsys18/) is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems.
+The importance of the problem are now increasing due to the empowerment of social networking technologies and the change of social environment, such as the enforcement of the EU General Data Protection Regulation.
 In this workshop, we are welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation.
 And, we will conduct a discussion for research to contribute socially responsible recommendation.
 
