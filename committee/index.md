@@ -7,7 +7,7 @@ permlink: /committee/
 
 <div style="margin-bottom: 3ex; max-width: 33%; min-width: 200px; float: left; display: inline">
 <p><img src="schwab.jpg" style="height:150px"></p>
-<p><a href="https://www.linkedin.com/in/pnschwab/">Pierre-Nicolas Schwab</a></p>
+<p><a href="http://www.intotheminds.com/blog/en/">Pierre-Nicolas Schwab</a></p>
 <p>Solvay Brussels School of Economics and Management</p>
 </div>
 <div style="margin-bottom: 3ex; max-width: 33%; min-width: 200px; float: left; display: inline">
