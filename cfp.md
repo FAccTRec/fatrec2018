@@ -23,6 +23,7 @@ FATREC stands for Fairness, Accountability and Transparency in Recommender Syste
 * **Fairness**: what might ‘fairness’ mean in the context of recommendation? How could a recommender be unfair, and how could we measure such unfairness?
 * **Accountability**: to whom, and under what standard, should a recommender system be accountable? How can or should it and its operators be held accountable? What harms should such accountability be designed to prevent?
 * **Transparency**: what is the value of transparency in recommendation, and how might it be achieved? How might it trade off with other important concerns?
+* **Compliance**: how the algorithm should be modified to adhere the laws or regulations, such as the EU GDPR or the [IEEE EAD](https://ethicsinaction.ieee.org/)? how to manage recommender systems to meet these laws or regulations?
 * **Safety**: how can a recommender system distorts users' opinions? what is required to be resilient to such a distortion? What is a proper treatment of private or sensitive information when making recommendation?
 
 ## Submission Types
