@@ -15,7 +15,7 @@ The importance of the problem are now increasing due to the empowerment of socia
 In this workshop, we are welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation.
 And, we will conduct a discussion for research to contribute socially responsible recommendation.
 
-## Target Topics
+## Topics of Interest
 
 FATREC stands for Fairness, Accountability and Transparency in Recommender Systems and aims to draw attention to these issues at ACM RecSys, as has been done in the machine learning community through events such as [FAT* conference](https://fatconference.org/). There are many potential aspects of responsibility in recommendation, including (but not limited to):
 
@@ -26,22 +26,40 @@ FATREC stands for Fairness, Accountability and Transparency in Recommender Syste
 * **Compliance**: how should algorithms and especially recommendation algorithms be designed to adhere the laws or regulations, such as the [EU GDPR](http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679) or the [IEEE EAD](https://ethicsinaction.ieee.org/)? How should data collection be rethought to meet those new privacy standards ? How to meet the requirements in terms of transparency and explainability of algorithmic decisions.
 * **Safety**: how can a recommender system distorts users' opinions? what is required to be resilient to such a distortion? What is a proper treatment of private or sensitive information when making recommendation?
 
-## Submission Types
+## Submission Guidelines 
+
+We encourage submissions in the above topics.
+No official proceedings will not be published, because the focus of this workshop is discussion about the directions to build and manage responsible recommender systems.
+All the manuscripts will be distributed at the [arXiv.org](https://arxiv.org/) by authors.
+We do not prohibit to submit manuscripts that have already published or that are currently submitted to another venue.
+No need to transfer copyrights to the ACM or our organization committee.
+
+Manuscripts must be submitted through an online submission system.
+The organization committee simply check whether or not the manuscripts fit for the above scope of interest, and will reject manuscripts that are out of the scope.
+Studies will be presented in an oral or a poster style.
 
 ### Position Papers
 
 Position papers addresses one or more of the above themes, or practical issues in building responsible recommendations.
 These could be both research systems or production systems in industry.
+The number of pages should be limited to two (2) pages.
 
 ### Research Papers
 
 Research papers presents empirical or analytical results related to the social impact of recommender systems or algorithms.
 These could be explorations of bias in recommender systems (either live systems or sandboxed algorithms), explainability and transparency of recommender systems, experiments regarding the impact of the recommender on its users or others, etc.
 We will construe the topics broadly.
+The number of pages should be limited from four (4) to six (6) pages.
 
-## Review Prosess
+### Paper format
 
-Papers will be reviewed by a program committee.
+We encourage to format in [ACM sigconf format](https://www.acm.org/publications/proceedings-template) with the subsequent options.
+
+* set the `sigconf` options in `documentclass`.
+* `\setcopyright{none}`
+* a `CCS` class and keywords parts can be omitted.
+
+However, we will not limit to this format, and will accept one of the IEEE proceedings format, the NIPS format, and the ICML proceedings format.
 
 ## Important Dates
 
