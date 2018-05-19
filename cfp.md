@@ -31,12 +31,14 @@ FATREC stands for Fairness, Accountability and Transparency in Recommender Syste
 We encourage submissions in the above topics.
 No official proceedings will not be published, because the focus of this workshop is discussion about the directions to build and manage responsible recommender systems.
 All the manuscripts will be distributed at the [arXiv.org](https://arxiv.org/) by authors.
+(Note: [We cannot endorse the authors to create the arXiv account](https://arxiv.org/help/endorsement).  Please find your endorser by yourself.)
 We do not prohibit to submit manuscripts that have already published or that are currently submitted to another venue.
 No need to transfer copyrights to the ACM or our organization committee.
 
 Manuscripts must be submitted through an online submission system.
-The organization committee simply check whether or not the manuscripts fit for the above scope of interest, and will reject manuscripts that are out of the scope.
-Studies will be presented in an oral or a poster style.
+The program committee will review the manuscripts.
+The review process is a single blinded, the authors names do not needed to be anonymized. 
+Presentations will be held in an oral or a poster style.
 
 ### Position Papers
 
@@ -53,7 +55,7 @@ The number of pages should be limited from four (4) to six (6) pages.
 
 ### Paper format
 
-We encourage to format in [ACM sigconf format](https://www.acm.org/publications/proceedings-template) with the subsequent options.
+We strongly encourage to format in [ACM sigconf format](https://www.acm.org/publications/proceedings-template) with the subsequent options.
 
 * set the `sigconf` options in `documentclass`.
 * `\setcopyright{none}`
