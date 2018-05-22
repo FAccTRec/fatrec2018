@@ -4,10 +4,6 @@ layout: page
 permlink: /cfp/
 ---
 
-> This is a tentative call for papers.
-> A paper format and a submission sites are not yet available.
-> We plan to announce the information in mid May.
-
 ## The 2nd FATREC Workshop on Responsible Recommendation
 
 The 2nd FATREC Workshop on Responsible Recommendation at [RecSys 2018](https://recsys.acm.org/recsys18/) is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems.
