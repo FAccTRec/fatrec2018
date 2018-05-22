@@ -30,14 +30,11 @@ FATREC stands for Fairness, Accountability and Transparency in Recommender Syste
 
 We encourage submissions in the above topics.
 No official proceedings will not be published, because the focus of this workshop is discussion about the directions to build and manage responsible recommender systems.
-All the manuscripts will be distributed at the [arXiv.org](https://arxiv.org/) by authors.
-(Note: [We cannot endorse the authors to create the arXiv account](https://arxiv.org/help/endorsement).  Please find your endorser by yourself.)
-We do not prohibit to submit manuscripts that have already published or that are currently submitted to another venue.
-No need to transfer copyrights to the ACM or our organization committee.
+All accepted papers manuscripts will be expected to be posted on [arXiv.org](https://arxiv.org/) by the authors.
+We allow manuscripts that have already published or that are currently submitted to another venue, so long as arXiv publication is compatible with that venue's requirements; already-published manuscripts should be accompanied by a cover abstract justifying their contribution specifically to FATREC.
 
-Manuscripts must be submitted through an online submission system.
-The program committee will review the manuscripts.
-The review process is a single blinded, the authors names do not needed to be anonymized. 
+Manuscripts must be submitted through an online submission system and will be reviewed by a program committee.
+The review process is a single-blind, the authors names do not needed to be anonymized. 
 Presentations will be held in an oral or a poster style.
 
 ### Position Papers
