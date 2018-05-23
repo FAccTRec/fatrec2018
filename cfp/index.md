@@ -50,9 +50,9 @@ The number of pages should be limited from four (4) to six (6) pages.
 
 We strongly encourage to format in [ACM sigconf format](https://www.acm.org/publications/proceedings-template) with the subsequent options.
 
-* set the `sigconf` options in `documentclass`.
+* set the `sigconf` options in `documentclass`
 * `\setcopyright{none}`
-* a `CCS` class and keywords parts can be omitted.
+* a `CCS` class and keywords parts can be omitted
 
 However, we will not limit to this format, and will accept one of the IEEE proceedings format, the NIPS format, and the ICML proceedings format.
 
