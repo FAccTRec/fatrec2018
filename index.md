@@ -29,4 +29,4 @@ You can find the details of submission at ["Call for Papers" page]({{ "/cfp/" | 
 * 2018-08-27: Camera-ready version deadline
 * 2018-10-06: Workshop (full day)
 
-* TIMEZONE: Anywhere On Earth
+TIMEZONE: Anywhere On Earth
