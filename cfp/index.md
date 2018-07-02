@@ -46,6 +46,8 @@ These could be explorations of bias in recommender systems (either live systems 
 We will construe the topics broadly.
 The number of pages should be limited from four (4) to six (6) pages.
 
+## Submission
+
 ### Paper format
 
 We strongly encourage to format in [ACM sigconf format](https://www.acm.org/publications/proceedings-template) with the subsequent options.
@@ -55,6 +57,11 @@ We strongly encourage to format in [ACM sigconf format](https://www.acm.org/publ
 * a `CCS` class and keywords parts can be omitted
 
 However, we will not limit to this format, and will accept one of the IEEE proceedings format, the NIPS format, and the ICML proceedings format.
+
+### Submission site
+
+* Manuscripts must be submitted electronically in the [EasyChair](https://easychair.org/conferences/?conf=fatrec2018).
+* Please add your favorite track name, Position or Research, at the first keyword field.
 
 ## Important Dates
 
