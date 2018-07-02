@@ -30,11 +30,15 @@ permlink: /committee/
 <p>Microsoft Research</p>
 </div>
 
-
-
-
-
 ## Program Committee
 {:style="clear: both"}
 
-TBA
+* [Solon Barocas](http://solon.barocas.org/)
+* [Pablo Castells](http://ir.ii.uam.es/castells/)
+* [Dan Cosley](https://www.cs.cornell.edu/~danco/)
+* [Henriette Cramer](http://henriettecramer.com/)
+* [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/)
+* [Daniel Kluver](https://www-users.cs.umn.edu/~kluve018/)
+* [Bart Knijnenburg](https://www.usabart.nl/)
+* [Sole Pera](https://solepera.github.io/)
+* [Christo Wilson](https://cbw.sh/)
