@@ -34,7 +34,6 @@ permlink: /committee/
 {:style="clear: both"}
 
 * [Solon Barocas](http://solon.barocas.org/)
-* [Pablo Castells](http://ir.ii.uam.es/castells/)
 * [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/)
 * [Dan Cosley](https://www.cs.cornell.edu/~danco/)
 * [Henriette Cramer](http://henriettecramer.com/)
