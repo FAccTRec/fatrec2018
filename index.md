@@ -4,6 +4,8 @@ layout: page
 permlink: /
 ---
 
+<div style="color: red; font-weight: bold; font-size: x-large;">DEADLINE EXTENDED: 2018-07-23</div>
+
 The 2nd FATREC Workshop: Responsible Recommendation will be held in conjunction with the [Recys 2018](https://recsys.acm.org/recsys18/) conference, following the success of [FATREC 2017 workshop](https://piret.gitlab.io/fatrec/).
 This workshop is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems.
 In this workshop, we are welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation.
@@ -25,9 +27,9 @@ You can find the details of submission at ["Call for Papers" page]({{ "/cfp/" | 
 
 ## Important Dates
 
-* 2018-07-16: Paper submission deadline
+* <span style="color: red; font-weight: bold;">2018-07-23 (extended)</span> <del style="color: gray;">2018-07-16</del>: Paper submission deadline
 * 2018-08-13: Author notification
-* 2018-08-27: Camera-ready version deadline
+* 2018-09-10: Final version upload
 * 2018-10-06: Workshop (full day)
 
 TIMEZONE: Anywhere On Earth
