@@ -4,6 +4,8 @@ layout: page
 permlink: /cfp/
 ---
 
+<div style="color: red; font-weight: bold; font-size: x-large;">DEADLINE EXTENDED: 2018-07-23</div>
+
 ## The 2nd FATREC Workshop on Responsible Recommendation
 
 The 2nd FATREC Workshop on Responsible Recommendation at [RecSys 2018](https://recsys.acm.org/recsys18/) is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems.
@@ -65,9 +67,9 @@ However, we will not limit to this format, and will accept one of the IEEE proce
 
 ## Important Dates
 
-* 2018-07-16: Paper submission deadline
+* <span style="color: red; font-weight: bold;">2018-07-23 (extended)</span> <del style="color: gray;">2018-07-16</del>: Paper submission deadline
 * 2018-08-13: Author notification
-* 2018-08-27: Camera-ready version deadline
+* 2018-09-10: Final version upload
 * 2018-10-06: Workshop (full day)
 
 TIMEZONE: Anywhere On Earth
