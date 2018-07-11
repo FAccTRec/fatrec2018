@@ -35,6 +35,7 @@ permlink: /committee/
 
 * [Solon Barocas](http://solon.barocas.org/)
 * [Pablo Castells](http://ir.ii.uam.es/castells/)
+* [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/)
 * [Dan Cosley](https://www.cs.cornell.edu/~danco/)
 * [Henriette Cramer](http://henriettecramer.com/)
 * [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/)
