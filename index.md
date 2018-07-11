@@ -16,7 +16,7 @@ And, we will conduct a discussion for research to contribute socially responsibl
 We are welcome your submissions to the FATREC workshop.
 The FATREC is a venue for discussion, and no official proceedings will not be published.
 We allow to manuscripts that are already published or currently submitting, as well as original ones.
-The deadline is **July 16, 2018**.
+The deadline is <span style="color: red; font-weight: bold;">July 27, 2018</span> <del style="color: gray;">July 16, 2018</del>.
 You can find the details of submission at ["Call for Papers" page]({{ "/cfp/" | relative_url }}).
 
 ## What's New
