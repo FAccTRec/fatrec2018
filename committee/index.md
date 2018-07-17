@@ -37,6 +37,7 @@ permlink: /committee/
 * [Augustin Chaintreau](http://www.cs.columbia.edu/~augustin/)
 * [Dan Cosley](https://www.cs.cornell.edu/~danco/)
 * [Henriette Cramer](http://henriettecramer.com/)
+* [Dimitris Paraschakis](http://forskning.mah.se/en/id/ae0670)
 * [Krishna Gummadi](https://people.mpi-sws.org/~gummadi/)
 * [Daniel Kluver](https://www-users.cs.umn.edu/~kluve018/)
 * [Bart Knijnenburg](https://www.usabart.nl/)
