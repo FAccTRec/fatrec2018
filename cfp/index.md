@@ -60,7 +60,7 @@ However, we will not limit to this format, and will accept one of the IEEE proce
 
 ### Submission site
 
-* Manuscripts must be submitted electronically in the [EasyChair](https://easychair.org/conferences/?conf=fatrec2018).
+* Manuscripts must be submitted electronically in the <del style="color: gray;">[EasyChair](https://easychair.org/conferences/?conf=fatrec2018)</del>(closed).
 * Please add your favorite track name, Position or Research, at the first keyword field.
 
 ## Important Dates
