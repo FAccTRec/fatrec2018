@@ -19,6 +19,7 @@ You can find the details of submission at ["Call for Papers" page]({{ "/cfp/" | 
 
 ## What's New
 
+* 2018-08-14: [a list of accepted papers]({{ "/program/" | relative_url }})
 * 2018-07-02: open submission site. see [call for papers]({{ "/cfp/" | relative_url }})
 * 2018-05-23: open [call for papers]({{ "/cfp/" | relative_url }})
 * 2018-04-22: opening this site
