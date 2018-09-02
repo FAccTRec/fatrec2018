@@ -6,7 +6,7 @@ permlink: /talk/
 
 ## Keynote Talk: 
 
-by [Shalaleh Rismani](http://www.shalalehrismani.com) ([LinkedIn](https://www.linkedin.com/in/shalalehrismani/))
+by [Shalaleh Rismani](http://www.shalalehrismani.com) (Generation R; and Open Roboethics Institute)
 
 <img src="rismani.jpg" style="width:200px; margin-right: 2rem; margin-bottom: 2rem; float: left;" />
 
