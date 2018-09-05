@@ -23,7 +23,7 @@ She completed a Masters of Applied Science in Biomedical Engineering and Bachelo
 ## Special Talk: European Public Broadcasters Path towards Public Service Recommender Systems
 {:style="margin-top: 5rem" id="schwab"}
 
-by [Pierre-Nicolas Schwab](http://www.intotheminds.com/blog/en/), on behalf of the chairman for the Big Data initiative.
+by [Pierre-Nicolas Schwab](http://www.intotheminds.com/blog/en/), on behalf of the Chairman of the Big Data Initiative, European Broadcasting Union, Geneva, Switzerland
 
 <img src="schwab.jpg" style="width:200px; margin-right: 2rem; margin-bottom: 2rem; float: left;" />
 
@@ -33,4 +33,4 @@ In this presentation, we will cover the efforts undertaken by the European Broad
 ### about EBU
 {:style="clear: both"}
 
-The European Broadcasting Union (EBU) is the world’s leading alliance of public service media (PSM). It has 119 member organizations in 56 countries in Europe, and an additional 33 Associates in Asia, Africa, Australasia and the Americas. Its Members operate over 2,000 television, radio and online channels and services, and offer a wealth of content across other platforms. Together they reach an audience of more than one billion people around the world, broadcasting in more than 160 languages. The EBU operates Eurovision and Euroradio services.
+The [European Broadcasting Union](https://www.ebu.ch) (EBU) is the world’s leading alliance of public service media (PSM). It has 119 member organizations in 56 countries in Europe, and an additional 33 Associates in Asia, Africa, Australasia and the Americas. Its Members operate over 2,000 television, radio and online channels and services, and offer a wealth of content across other platforms. Together they reach an audience of more than one billion people around the world, broadcasting in more than 160 languages. The EBU operates Eurovision and Euroradio services.
