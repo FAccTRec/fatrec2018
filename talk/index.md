@@ -23,7 +23,7 @@ She completed a Masters of Applied Science in Biomedical Engineering and Bachelo
 ## Special Talk: European Public Broadcasters Path towards Public Service Recommender Systems
 {:style="margin-top: 5rem" id="schwab"}
 
-by [Pierre-Nicolas Schwab](http://www.intotheminds.com/blog/en/), on behalf of the Chairman of the Big Data Initiative, European Broadcasting Union, Geneva, Switzerland
+by [Pierre-Nicolas Schwab](http://www.intotheminds.com/blog/en/), the Chairman of the Big Data Initiative, European Broadcasting Union, Geneva, Switzerland
 
 <img src="schwab.jpg" style="width:200px; margin-right: 2rem; margin-bottom: 2rem; float: left;" />
 
