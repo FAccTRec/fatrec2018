@@ -9,16 +9,9 @@ This workshop is a venue for discussing problems of social responsibility in mai
 In this workshop, we are welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation.
 And, we will conduct a discussion for research to contribute socially responsible recommendation.
 
-## Call for Papers
-
-We are welcome your submissions to the FATREC workshop.
-The FATREC is a venue for discussion, and no official proceedings will not be published.
-We allow to manuscripts that are already published or currently submitting, as well as original ones.
-The deadline is July 23, 2018 <del style="color: gray;">July 16, 2018</del>.
-You can find the details of submission at ["Call for Papers" page]({{ "/cfp/" | relative_url }}).
-
 ## What's New
 
+* 2018-09-12: [keynote and special talks]({{ "/talk/" | relative_url }})
 * 2018-08-14: [a list of accepted papers]({{ "/program/" | relative_url }})
 * 2018-07-02: open submission site. see [call for papers]({{ "/cfp/" | relative_url }})
 * 2018-05-23: open [call for papers]({{ "/cfp/" | relative_url }})
