@@ -10,7 +10,7 @@ permlink: /program/
 	* 10 minutes
 * **Using Image Fairness Representations in Diversity-Based Re-ranking for Recommendations**
     * Chen Karako, Putra Manggala
-    * [article](fatrec2018-karako.pdf)
+    * [article](https://arxiv.org/abs/1809.03577)
 * **Fairness-Aware Recommendation of Information Curators**
     * Ziwei Zhu, Jianling Wang, Yin Zhang, James Caverlee
     * [article](https://arxiv.org/abs/1809.03040)
