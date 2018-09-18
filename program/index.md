@@ -23,7 +23,7 @@ permlink: /program/
 
 ### [Coffee Break (10:30 〜 11:00)]
 
-## Session 2 (11:00 〜 12:20)
+## Session 2 (11:00 〜 12:30)
 
 * **The Case for Public Service Recommender Algorithms**
     * Benjamin Fields, Rhia Jones, Tim Cowlishaw
@@ -32,11 +32,11 @@ permlink: /program/
 	* [Pierre-Nicolas Schwab](http://www.intotheminds.com/blog/en/), the Chairman of the Big Data Initiative, European Broadcasting Union, Geneva, Switzerland
 	* [abstract]({{ "/talk/#schwab" | relative_url }})
 
-### [Lunch (12:20 〜 14:00)]
+### [Lunch (12:30 〜 14:10)]
 
 * On your own
 
-## Session 3 (14:00 〜 15:30)
+## Session 3 (14:10 〜 15:30)
 
 * **“Let Me Tell You Who You are” — Explaining Recommender Systems by Opening Black Box User Profiles**
     * David Graus, Maya Sappelli, Dung Manh Chu
