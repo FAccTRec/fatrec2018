@@ -25,12 +25,12 @@ permlink: /program/
 
 ## Session 2 (11:00 〜 12:30)
 
-* **The Case for Public Service Recommender Algorithms**
-    * Benjamin Fields, Rhia Jones, Tim Cowlishaw
-    * [article](fatrec2018-fields.pdf)
 * **Special Talk: European Public Broadcasters Path towards Public Service Recommender Systems**
 	* [Pierre-Nicolas Schwab](http://www.intotheminds.com/blog/en/), the Chairman of the Big Data Initiative, European Broadcasting Union, Geneva, Switzerland
 	* [abstract]({{ "/talk/#schwab" | relative_url }})
+* **The Case for Public Service Recommender Algorithms**
+    * Benjamin Fields, Rhia Jones, Tim Cowlishaw
+    * [article](fatrec2018-fields.pdf)
 
 ### [Lunch (12:30 〜 14:10)]
 
