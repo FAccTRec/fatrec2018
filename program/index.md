@@ -16,7 +16,7 @@ permlink: /program/
     * [article](https://arxiv.org/abs/1809.03040)
 * **A Fairness-aware Hybrid Recommender System**
     * Golnoosh Farnadi, Pigi Kouki, Spencer K. Thompson, Sriram Srinivasan, Lise Getoor
-    * [article](fatrec2018-farnadi.pdf)
+    * [article](https://arxiv.org/abs/1809.09030)
 * **Personalizing Fairness-aware Re-ranking**
     * Weiwen Liu, Robin Burke
     * [article](https://arxiv.org/abs/1809.02921)
