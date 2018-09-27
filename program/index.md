@@ -48,7 +48,7 @@ permlink: /program/
     * Robin Burke, Jackson Kontny, Nasim Sonboli
     * [article](https://arxiv.org/abs/1809.04199)
 * **The Role of Differential Privacy in GDPR Compliance**
-    * Rachel Cummings, Deven Desai
+    * Rachel Cummings, Deven Desai (presented by Yatharth Dubey)
     * [article](fatrec2018-cummings.pdf)
 
 ### [Coffee Break (15:30 〜 16:00)]
