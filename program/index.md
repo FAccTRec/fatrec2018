@@ -53,7 +53,7 @@ permlink: /program/
 
 ### [Coffee Break (15:30 〜 16:00)]
 
-## Session 3 (16:00 〜 18:00)
+## Session 4 (16:00 〜 18:00)
 
 * **Assessing and Addressing Algorithmic Bias — But Before We Get There**
     * Jean Garcia-Gathright, Aaron Springer, Henriette Cramer
