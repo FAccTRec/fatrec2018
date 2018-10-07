@@ -8,6 +8,7 @@ permlink: /program/
 
 * **Opening** 
 	* 10 minutes
+	* [slide](opening.pdf)
 * **Using Image Fairness Representations in Diversity-Based Re-ranking for Recommendations**
     * Chen Karako, Putra Manggala
     * [article](https://arxiv.org/abs/1809.03577)
@@ -30,7 +31,7 @@ permlink: /program/
 	* [abstract]({{ "/talk/#schwab" | relative_url }})
 * **The Case for Public Service Recommender Algorithms**
     * Benjamin Fields, Rhia Jones, Tim Cowlishaw
-    * [article](fatrec2018-fields.pdf)
+    * [article](fatrec2018-fields.pdf), [slide](https://speakerdeck.com/bfields/the-case-for-public-service-recommender-algorithms)
 
 ### [Lunch (12:30 〜 14:10)]
 
