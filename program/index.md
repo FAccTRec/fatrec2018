@@ -14,7 +14,7 @@ permlink: /program/
     * [article](https://arxiv.org/abs/1809.03577)
 * **Fairness-Aware Recommendation of Information Curators**
     * Ziwei Zhu, Jianling Wang, Yin Zhang, James Caverlee
-    * [article (latest)](fatrec2018-zhu.pdf), [article @ arXiv](https://arxiv.org/abs/1809.03040)
+    * [article](https://arxiv.org/abs/1809.03040)
 * **A Fairness-aware Hybrid Recommender System**
     * Golnoosh Farnadi, Pigi Kouki, Spencer K. Thompson, Sriram Srinivasan, Lise Getoor
     * [article](https://arxiv.org/abs/1809.09030)
