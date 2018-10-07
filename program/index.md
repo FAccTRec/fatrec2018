@@ -58,7 +58,7 @@ permlink: /program/
 
 * **Assessing and Addressing Algorithmic Bias — But Before We Get There**
     * Jean Garcia-Gathright, Aaron Springer, Henriette Cramer
-    * [article](https://arxiv.org/abs/1809.03332)
+    * [article](https://arxiv.org/abs/1809.03332), [slide](fatrec2018-garciagathright-slide.pdf)
 * **Keynote Talk: What Does it Mean for an Algorithm to be Ethical? Connecting Ethics to Policy and Design**
 	* [Shalaleh Rismani](http://www.shalalehrismani.com), Generation R; and Open Roboethics Institute
 	* [abstract]({{ "/talk/#rismani" | relative_url }})
