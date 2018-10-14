@@ -13,6 +13,7 @@ And, we will conduct a discussion for research to contribute socially responsibl
 
 ## What's New
 
+* 2018-10-15: [open slides]({{ "/program/" | relative_url }})
 * 2018-09-20: [program]({{ "/program/" | relative_url }})
 * 2018-09-12: [keynote and special talks]({{ "/talk/" | relative_url }})
 * 2018-08-14: [a list of accepted papers]({{ "/program/" | relative_url }})

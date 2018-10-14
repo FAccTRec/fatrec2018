@@ -14,13 +14,13 @@ permlink: /program/
     * [article](https://arxiv.org/abs/1809.03577)
 * **Fairness-Aware Recommendation of Information Curators**
     * Ziwei Zhu, Jianling Wang, Yin Zhang, James Caverlee
-    * [article](https://arxiv.org/abs/1809.03040)
+    * [article](https://arxiv.org/abs/1809.03040), [slide](fatrec-zhu-slide.pdf)
 * **A Fairness-aware Hybrid Recommender System**
     * Golnoosh Farnadi, Pigi Kouki, Spencer K. Thompson, Sriram Srinivasan, Lise Getoor
     * [article](https://arxiv.org/abs/1809.09030)
 * **Personalizing Fairness-aware Re-ranking**
     * Weiwen Liu, Robin Burke
-    * [article](https://arxiv.org/abs/1809.02921)
+    * [article](https://arxiv.org/abs/1809.02921), [slide](fatrec2018-liu-slide.pdf)
 
 ### [Coffee Break (10:30 〜 11:00)]
 
@@ -28,7 +28,7 @@ permlink: /program/
 
 * **Special Talk: European Public Broadcasters Path towards Public Service Recommender Systems**
 	* [Pierre-Nicolas Schwab](http://www.intotheminds.com/blog/en/), the Chairman of the Big Data Initiative, European Broadcasting Union, Geneva, Switzerland
-	* [abstract]({{ "/talk/#schwab" | relative_url }})
+	* [abstract]({{ "/talk/#schwab" | relative_url }}), [slide](https://www.intotheminds.com/blog/en/fatrec-2018-keynote-on-public-service-recommendation-algorithms/)
 * **The Case for Public Service Recommender Algorithms**
     * Benjamin Fields, Rhia Jones, Tim Cowlishaw
     * [article](fatrec2018-fields.pdf), [slide](https://speakerdeck.com/bfields/the-case-for-public-service-recommender-algorithms)
@@ -47,10 +47,10 @@ permlink: /program/
     * [article](https://arxiv.org/abs/1809.04684)
 * **Synthetic Attribute Data for Evaluating Consumer-side Fairness**
     * Robin Burke, Jackson Kontny, Nasim Sonboli
-    * [article](https://arxiv.org/abs/1809.04199)
+    * [article](https://arxiv.org/abs/1809.04199), [slide](fatrec2018-burkei-slide.pdf)
 * **The Role of Differential Privacy in GDPR Compliance**
     * Rachel Cummings, Deven Desai (presented by Yatharth Dubey)
-    * [article](fatrec2018-cummings.pdf)
+    * [article](fatrec2018-cummings.pdf), [slide](fatrec2018-cummings-slide.pdf)
 
 ### [Coffee Break (15:30 〜 16:00)]
 
@@ -61,6 +61,6 @@ permlink: /program/
     * [article](https://arxiv.org/abs/1809.03332), [slide](fatrec2018-garciagathright-slide.pdf)
 * **Keynote Talk: What Does it Mean for an Algorithm to be Ethical? Connecting Ethics to Policy and Design**
 	* [Shalaleh Rismani](http://www.shalalehrismani.com), Generation R; and Open Roboethics Institute
-	* [abstract]({{ "/talk/#rismani" | relative_url }})
+	* [abstract]({{ "/talk/#rismani" | relative_url }}), [slide](fatrec2018-rismani-slide.pdf)
 * **Discussion and Closing**
 	* 30 minutes
