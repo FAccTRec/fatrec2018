@@ -4,7 +4,12 @@ layout: page
 permlink: /
 ---
 
-<span style="color: red;">Many thanks for great contributions and disscussions. The workshop has successfully ended!</span>
+<div style="color: red; text-align: center;">Many thanks for great contributions and disscussions. The workshop has successfully ended!</div>
+
+<div style="text-align: center; margin-top: 3ex; margin-bottom: 3ex;">
+<img src="Fatrec-workshop-Recsys-2018-copyrights-intotheminds-market-research-agency-1.jpg" style="width: 40%; margin-right: 5%;">
+<img src="Fatrec-workshop-Recsys-2018-copyrights-intotheminds-market-research-agency-8.jpg" style="width: 40%;">
+</div>
 
 The 2nd FATREC Workshop: Responsible Recommendation will be held in conjunction with the [Recys 2018](https://recsys.acm.org/recsys18/) conference, following the success of [FATREC 2017 workshop](https://piret.gitlab.io/fatrec/).
 This workshop is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems.
