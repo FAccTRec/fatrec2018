@@ -11,7 +11,7 @@ permlink: /
 <img src="Fatrec-workshop-Recsys-2018-copyrights-intotheminds-market-research-agency-8.jpg" style="width: 40%;">
 </div>
 
-The 2nd FATREC Workshop: Responsible Recommendation will be held in conjunction with the [Recys 2018](https://recsys.acm.org/recsys18/) conference, following the success of [FATREC 2017 workshop](https://piret.gitlab.io/fatrec/).
+The 2nd FATREC Workshop: Responsible Recommendation will be held in conjunction with the [Recys 2018](https://recsys.acm.org/recsys18/) conference, following the success of [FATREC 2017 workshop](/fatrec2017/).
 This workshop is a venue for discussing problems of social responsibility in maintaining, evaluating, and studying recommender systems.
 In this workshop, we are welcome research and position papers about ethical, social, and legal issues brought by the development and the use of recommendation.
 And, we will conduct a discussion for research to contribute socially responsible recommendation.

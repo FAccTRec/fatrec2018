@@ -3,4 +3,4 @@
 
 (c) 2018 Organizing committee of the 2nd FATREC workshop: responsible recommendation, All rights reserved.
 
-* site url: <https://piret.gitlab.io/fatrec2018/>
+* site url: <https://facctrec.github.io/fatrec2018/>
